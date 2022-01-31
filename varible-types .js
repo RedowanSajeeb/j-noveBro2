@@ -1,0 +1,10 @@
+var RedoTshart =100;
+console.log(typeof  RedoTshart);
+var rejo = 'b';
+console.log(typeof rejo);
+var indo = true;
+console.log(typeof indo);
+var agun =50;
+var boom =520;
+var remaining = agun % boom;
+console.log(remaining);
